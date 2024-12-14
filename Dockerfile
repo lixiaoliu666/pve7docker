@@ -48,4 +48,3 @@ run apt-get install -y docutils-common fonts-font-awesome libacl1-dev libattr1-d
             python3-setuptools python3-snowballstemmer \
             python3-sphinx python3-sphinx-rtd-theme python3-tz python3-venv \
             python3.9-venv sphinx-common sphinx-rtd-theme-common
-#run apt-get install -y dpatch dh-systemd pve-libspice-server-dev iproute python-ceph libreadline-gplv2-dev libipset3 python-pyparsing ttf-dejavu-core
