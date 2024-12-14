@@ -40,7 +40,7 @@ run apt-get install -y docutils-common fonts-font-awesome libacl1-dev libattr1-d
             libglusterfs-dev libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 \
             libjs-sphinxdoc libjs-underscore liborc-0.4-0 libpixman-1-dev \
             libproxmox-backup-qemu0 libproxmox-backup-qemu0-dev libslirp-dev libslirp0 \
-            libspice-server-dev libspice-server1 liburing-dev liburing2 libva-drm2 \
+            libspice-server-dev libspice-server1 liburing-dev libva-drm2 \
             libva2 libvirglrenderer-dev libvirglrenderer1 libvulkan1 libzstd-dev meson \
             ninja-build python-babel-localedata python3-alabaster python3-babel \
             python3-docutils python3-imagesize python3-jinja2 python3-markupsafe \
