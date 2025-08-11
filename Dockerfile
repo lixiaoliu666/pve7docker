@@ -47,5 +47,5 @@ run apt-get install -y docutils-common fonts-font-awesome libacl1-dev libattr1-d
             python3-packaging python3-pip python3-pygments python3-roman \
             python3-setuptools python3-snowballstemmer \
             python3-sphinx python3-sphinx-rtd-theme python3-tz python3-venv \
-            python3.9-venv sphinx-common sphinx-rtd-theme-common
+            python3-venv sphinx-common sphinx-rtd-theme-common
 run git config --global url."https://github.com/tianocore/edk2-subhook.git".insteadOf https://github.com/Zeex/subhook.git
